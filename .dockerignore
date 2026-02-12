@@ -1,0 +1,15 @@
+venv
+.venv
+__pycache__
+.git
+.env
+*.pyc
+*.pyo
+*.pyd
+.pytest_cache
+.mypy_cache
+dist
+build
+data/raw
+data/processed
+
