@@ -1,4 +1,4 @@
-# Running with Docker
+## Running with Docker
 
 Build the environment:
 
