@@ -3,11 +3,14 @@ venv/
 __pycache__/
 *.pyc
 .env
-data/raw/
-data/processed/
+
+#ignore datasets
+data/**
+!data/.gitkeep
+
+#ignore large data formats
 *.csv
 *.parquet
 *.h5
 *.npy
 *.npz
-
