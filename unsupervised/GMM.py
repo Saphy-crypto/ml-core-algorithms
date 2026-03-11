@@ -103,8 +103,8 @@ mu1 = 2
 mu2 = 80
 sigma1 = 10
 sigma2 = 10
-pi1 = 0.5  #starting with 50/50
-pi2 = 0.5
+pi1 = 0.7  #starting with 50/50
+pi2 = 0.3
 
 
 final_mu1, final_mu2, final_sigma1, final_sigma2, final_pi1, final_pi2 = GMM(data, mu1, mu2, sigma1, sigma2, pi1, pi2)
